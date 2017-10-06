@@ -1,0 +1,22 @@
+{
+  "name": "node-ari-originate-sample",
+  "version": "0.0.1",
+  "description": "ARI originate sample on nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antirek/node-ari-originate-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antirek/node-ari-originate-sample/issues"
+  },
+  "homepage": "https://github.com/antirek/node-ari-originate-sample#readme",
+  "dependencies": {
+    "ari-client": "^1.1.1"
+  }
+}
