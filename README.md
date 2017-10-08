@@ -1,2 +1,6 @@
 # node-ari-originate-sample
-ARI originate sample on nodejs 
+
+01.js - простой пример оригинации вызова
+
+02.js - оригинация вызова в созданное приложение стазис
+
